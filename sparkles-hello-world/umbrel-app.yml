@@ -2,7 +2,7 @@ manifestVersion: 1
 id: sparkles-hello-world
 name: Hello World
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://github.com/schlagmichdoch/PairDrop/blob/master/public/images/logo_blue_512x512.png?raw=true
 category: Development
 version: "1.0.0"
 port: 4005
@@ -19,9 +19,9 @@ submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/1D8z82V.png
+  - https://i.imgur.com/1NwnGmI.png
+  - https://i.imgur.com/QuZriOi.png
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
