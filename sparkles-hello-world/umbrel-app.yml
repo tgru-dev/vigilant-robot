@@ -7,10 +7,10 @@ category: Development
 version: "1.0.0"
 port: 4005
 description: >-
-  Add your app's description here.
+  File sharing on your local network that works on all platforms.
 
 
-  You can also add newlines!
+  A multi-platform AirDrop-like solution that works.
 
 
 developer: Umbrel
