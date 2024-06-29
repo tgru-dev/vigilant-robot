@@ -6,8 +6,11 @@ icon: https://github.com/schlagmichdoch/PairDrop/blob/master/public/images/logo_
 category: Development
 version: "1.0.0"
 port: 4005
-description: >
-File sharing on your local network that works on all platforms.
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
 
 developer: Umbrel
 website: https://umbrel.com
