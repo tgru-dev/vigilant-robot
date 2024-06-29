@@ -13,12 +13,12 @@ description: >-
   A multi-platform AirDrop-like solution that works.
 
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: schlagmichdoch
+website: https://pairdrop.net/
+submitter: Tgru
+submission: https://github.com/tgru-dev/tgru-appstore/tree/master/pairdrop
+repo: https://github.com/tgru-dev/tgru-appstore/
+support: https://github.com/tgru-dev/tgru-appstore/issues
 gallery:
   - https://i.imgur.com/1D8z82V.png
   - https://i.imgur.com/1NwnGmI.png
