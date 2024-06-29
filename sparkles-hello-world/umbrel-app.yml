@@ -1,29 +1,33 @@
 manifestVersion: 1
 id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+name: Pairdrop
+tagline: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 icon: https://github.com/schlagmichdoch/PairDrop/blob/master/public/images/logo_blue_512x512.png?raw=true
 category: Development
 version: "1.0.0"
 port: 4005
 description: >-
-  Add your app's description here.
+File sharing on your local network that works on all platforms.
 
+A multi-platform AirDrop-like solution that works.
+    -Send images, documents or text via peer-to-peer connection to devices on the same local network.
+Internet transfers
+   -Join temporary public rooms to transfer files easily over the Internet.
+Web-app
+   -Works on all devices with a modern web-browser.
 
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: schlagmichdoch
+website: https://pairdrop.net/
+submitter: Tgru
+submission: https://github.com/tgru-dev/tgru-appstore/tree/master/pairdrop
+repo: https://github.com/tgru-dev/tgru-appstore/
+support: https://github.com/tgru-dev/tgru-appstore/issues
 gallery:
   - https://i.imgur.com/1D8z82V.png
   - https://i.imgur.com/1NwnGmI.png
   - https://i.imgur.com/QuZriOi.png
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Nothing
 dependencies: []
 path: ""
 defaultUsername: ""
